@@ -1,5 +1,6 @@
-This script implements a hearing test using a train of pure tones and
-outputs Pure Tone Audiogram (PTA) plots.
+This script implements a hearing test using pure tones with a staircase
+design, interleaving left and right ear trials. It outputs Pure Tone
+Audiogram (PTA) plots.
 
 # DISCLAIMER:
 This software implements a pure tone audiometry test intended for
@@ -56,7 +57,7 @@ e) to interrupt, terminate or repeat all or part of the test.
    the calibration otherwise.
 
 # INSTRUCTIONS TO THE TEST SUBJECT
-As per ISO 8253, the instructions shall be phrased in language
+As per ISO 8253, the instructions shall be phrased in (a) language
 appropriate to the listener and shall normally indicate:
 a) the response task;
 b) the need to respond whenever the tone is heard in either ear, no
@@ -92,20 +93,15 @@ BS EN ISO 7029:2017+A1:2024
 TBD
 
 # CREDIT
-This software was forked from, and is now loosely based on [this repository](https://github.com/pd2/PureToneAudiogram)
-by [Pradeep D](https://github.com/pd2).
-
-Original Author:- Pradeep D, Uhlhaas lab,
-Institute of Neuroscience & Psychology, University of Glasgow, Glasgow, UK
-(C) copyright reserved 2022
+This software is based on [this repository](https://github.com/pd2/PureToneAudiogram)
+by [Pradeep D](https://github.com/pd2) of  Uhlhaas lab, Institute of
+Neuroscience & Psychology, University of Glasgow, Glasgow, UK
 
 Current Author:- Dr. Enrico Varano
 Dynamics of Brain and Language Lab (Alexis Hervais-Adelman)
 Department of Basic Neurosciences, University of Geneva, Switzerland
-(C) copyright reserved 2024
 
 Version History:-
  ver - DD MMM YYYY - Feature added
- 1.0 - 31 Jan 2022 - first implementation (Original Author)
- 2.0 - 22 May 2024 - implementation of BS EN ISO 8253-1:2010 procedure
+ 1.0 - 31 May 2024 - implementation of BS EN ISO 8253-1:2010 procedure
                      and hardware calibration (E. Varano)
