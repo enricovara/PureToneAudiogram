@@ -2,7 +2,7 @@ This script implements a hearing test using pure tones with a staircase
 design, interleaving left and right ear trials. It outputs Pure Tone
 Audiogram (PTA) plots.
 
-# DISCLAIMER:
+## DISCLAIMER:
 This software implements a pure tone audiometry test intended for
 educational and research purposes only. This software is not suitable for
 clinical applications or diagnostic purposes. The results obtained from
@@ -15,7 +15,7 @@ not responsible for any misuse of this software or for any consequences
 arising from its use. By using this software, you agree to assume all
 risks associated with its use.
 
-# RELIABILITY
+## RELIABILITY
 While efforts were made to follow BS EN ISO 8253-1:2010 standards on
 audiometric test methods, please note that (as per ISO 8253), the
 uncertainty of hearing threshold levels determined in accordance with any
@@ -50,13 +50,13 @@ d) there is any external noise event or any behaviour response of the
    test subject that might invalidate the test;
 e) to interrupt, terminate or repeat all or part of the test.
 
-# INSTRUCTIONS
+## INSTRUCTIONS
 1) Clone or download this repository
 2) Run hearing_test.m – the calibration will be performed if it is the first
    time, and you will be asked to select a previous calibration file or re-do
    the calibration otherwise.
 
-# INSTRUCTIONS TO THE TEST SUBJECT
+## INSTRUCTIONS TO THE TEST SUBJECT
 As per ISO 8253, the instructions shall be phrased in (a) language
 appropriate to the listener and shall normally indicate:
 a) the response task;
@@ -74,7 +74,7 @@ It can be assumed that any subject able to read and understand English
 will receive all required instructions by looking at the screen while
 this software is running.
 
-# FURTHER REFERENCE
+## FURTHER REFERENCE
 For further reference, please consult:
 BS ISO 226:2023
   "Acoustics. Normal equal-loudness-level contours."
@@ -89,10 +89,10 @@ BS EN ISO 7029:2017+A1:2024
   "Acoustics. Statistical distribution of hearing thresholds related to
   age and gender."
   
-# PLEASE CITE
+## PLEASE CITE
 TBD
 
-# CREDIT
+## CREDIT
 This software is based on [this repository](https://github.com/pd2/PureToneAudiogram)
 by [Pradeep D](https://github.com/pd2) of  Uhlhaas lab, Institute of
 Neuroscience & Psychology, University of Glasgow, Glasgow, UK
