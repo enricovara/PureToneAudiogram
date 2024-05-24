@@ -1,0 +1,492 @@
+Ear: Left Freq: 250 dB HL: 0
+User choice: No 
+Latency: 1.292 s
+
+Ear: Left Freq: 250 dB HL: 5
+User choice: No 
+Latency: 0.892 s
+
+Ear: Left Freq: 250 dB HL: 10
+User choice: No 
+Latency: 0.670 s
+
+Ear: Left Freq: 250 dB HL: 15
+User choice: No 
+Latency: 0.659 s
+
+Ear: Left Freq: 250 dB HL: 20
+User choice: No 
+Latency: 0.738 s
+
+Ear: Left Freq: 250 dB HL: 25
+User choice: No 
+Latency: 0.766 s
+
+Ear: Left Freq: 250 dB HL: 30
+User choice: No 
+Latency: 3.798 s
+
+Ear: Left Freq: 250 dB HL: 35
+User choice: Yes 
+Latency: 0.647 s
+
+Ear: Left Freq: 250 dB HL: 20
+User choice: No 
+Latency: 1.174 s
+
+Ear: Left Freq: 250 dB HL: 25
+User choice: Yes 
+Latency: 0.858 s
+
+Ear: Left Freq: 500 dB HL: 0
+User choice: No 
+Latency: 3.138 s
+
+Ear: Left Freq: 500 dB HL: 5
+User choice: No 
+Latency: 0.812 s
+
+Ear: Left Freq: 500 dB HL: 10
+User choice: No 
+Latency: 0.897 s
+
+Ear: Left Freq: 500 dB HL: 15
+User choice: No 
+Latency: 0.940 s
+
+Ear: Left Freq: 500 dB HL: 20
+User choice: No 
+Latency: 0.716 s
+
+Ear: Left Freq: 500 dB HL: 25
+User choice: Yes 
+Latency: 0.790 s
+
+Ear: Left Freq: 500 dB HL: 10
+User choice: No 
+Latency: 1.283 s
+
+Ear: Left Freq: 500 dB HL: 15
+User choice: No 
+Latency: 1.173 s
+
+Ear: Left Freq: 500 dB HL: 20
+User choice: No 
+Latency: 1.322 s
+
+Ear: Left Freq: 500 dB HL: 25
+User choice: Yes 
+Latency: 0.630 s
+
+Ear: Left Freq: 1000 dB HL: 0
+User choice: No 
+Latency: 0.785 s
+
+Ear: Left Freq: 1000 dB HL: 5
+User choice: No 
+Latency: 1.070 s
+
+Ear: Left Freq: 1000 dB HL: 10
+User choice: No 
+Latency: 1.263 s
+
+Ear: Left Freq: 1000 dB HL: 15
+User choice: No 
+Latency: 1.034 s
+
+Ear: Left Freq: 1000 dB HL: 20
+User choice: Yes 
+Latency: 0.885 s
+
+Ear: Left Freq: 1000 dB HL: 5
+User choice: No 
+Latency: 0.770 s
+
+Ear: Left Freq: 1000 dB HL: 10
+User choice: No 
+Latency: 1.380 s
+
+Ear: Left Freq: 1000 dB HL: 15
+User choice: No 
+Latency: 0.636 s
+
+Ear: Left Freq: 1000 dB HL: 20
+User choice: Yes 
+Latency: 0.462 s
+
+Ear: Left Freq: 2000 dB HL: 0
+User choice: No 
+Latency: 0.829 s
+
+Ear: Left Freq: 2000 dB HL: 5
+User choice: No 
+Latency: 0.745 s
+
+Ear: Left Freq: 2000 dB HL: 10
+User choice: No 
+Latency: 1.024 s
+
+Ear: Left Freq: 2000 dB HL: 15
+User choice: No 
+Latency: 0.819 s
+
+Ear: Left Freq: 2000 dB HL: 20
+User choice: Yes 
+Latency: 0.597 s
+
+Ear: Left Freq: 2000 dB HL: 5
+User choice: No 
+Latency: 1.042 s
+
+Ear: Left Freq: 2000 dB HL: 10
+User choice: Yes 
+Latency: 1.450 s
+
+Ear: Left Freq: 4000 dB HL: 0
+User choice: No 
+Latency: 0.910 s
+
+Ear: Left Freq: 4000 dB HL: 5
+User choice: No 
+Latency: 1.055 s
+
+Ear: Left Freq: 4000 dB HL: 10
+User choice: Yes 
+Latency: 0.951 s
+
+Ear: Left Freq: 4000 dB HL: 0
+User choice: No 
+Latency: 1.208 s
+
+Ear: Left Freq: 4000 dB HL: 5
+User choice: No 
+Latency: 1.565 s
+
+Ear: Left Freq: 4000 dB HL: 10
+User choice: No 
+Latency: 1.040 s
+
+Ear: Left Freq: 4000 dB HL: 15
+User choice: No 
+Latency: 0.425 s
+
+Ear: Left Freq: 4000 dB HL: 20
+User choice: Yes 
+Latency: 0.722 s
+
+Ear: Left Freq: 6000 dB HL: 0
+User choice: No 
+Latency: 0.745 s
+
+Ear: Left Freq: 6000 dB HL: 5
+User choice: No 
+Latency: 0.812 s
+
+Ear: Left Freq: 6000 dB HL: 10
+User choice: Yes 
+Latency: 0.628 s
+
+Ear: Left Freq: 6000 dB HL: 0
+User choice: Yes 
+Latency: 1.277 s
+
+Ear: Left Freq: 8000 dB HL: 0
+User choice: No 
+Latency: 0.738 s
+
+Ear: Left Freq: 8000 dB HL: 5
+User choice: No 
+Latency: 0.637 s
+
+Ear: Left Freq: 8000 dB HL: 10
+User choice: Yes 
+Latency: 1.168 s
+
+Ear: Left Freq: 8000 dB HL: 0
+User choice: No 
+Latency: 0.683 s
+
+Ear: Left Freq: 8000 dB HL: 5
+User choice: No 
+Latency: 0.670 s
+
+Ear: Left Freq: 8000 dB HL: 10
+User choice: No 
+Latency: 0.995 s
+
+Ear: Left Freq: 8000 dB HL: 15
+User choice: No 
+Latency: 0.759 s
+
+Ear: Left Freq: 8000 dB HL: 20
+User choice: No 
+Latency: 0.699 s
+
+Ear: Left Freq: 8000 dB HL: 25
+User choice: No 
+Latency: 1.026 s
+
+Ear: Left Freq: 8000 dB HL: 30
+User choice: Yes 
+Latency: 0.592 s
+
+
+
+Ear: Right Freq: 250 dB HL: 0
+User choice: No 
+Latency: 2.571 s
+
+Ear: Right Freq: 250 dB HL: 5
+User choice: No 
+Latency: 0.694 s
+
+Ear: Right Freq: 250 dB HL: 10
+User choice: No 
+Latency: 0.629 s
+
+Ear: Right Freq: 250 dB HL: 15
+User choice: No 
+Latency: 0.637 s
+
+Ear: Right Freq: 250 dB HL: 20
+User choice: No 
+Latency: 0.550 s
+
+Ear: Right Freq: 250 dB HL: 25
+User choice: No 
+Latency: 0.662 s
+
+Ear: Right Freq: 250 dB HL: 30
+User choice: No 
+Latency: 0.967 s
+
+Ear: Right Freq: 250 dB HL: 35
+User choice: No 
+Latency: 0.720 s
+
+Ear: Right Freq: 250 dB HL: 40
+User choice: No 
+Latency: 0.654 s
+
+Ear: Right Freq: 250 dB HL: 45
+User choice: Yes 
+Latency: 0.600 s
+
+Ear: Right Freq: 250 dB HL: 30
+User choice: No 
+Latency: 1.341 s
+
+Ear: Right Freq: 250 dB HL: 35
+User choice: Yes 
+Latency: 0.639 s
+
+Ear: Right Freq: 500 dB HL: 0
+User choice: No 
+Latency: 1.578 s
+
+Ear: Right Freq: 500 dB HL: 5
+User choice: No 
+Latency: 0.722 s
+
+Ear: Right Freq: 500 dB HL: 10
+User choice: No 
+Latency: 0.397 s
+
+Ear: Right Freq: 500 dB HL: 15
+User choice: No 
+Latency: 0.637 s
+
+Ear: Right Freq: 500 dB HL: 20
+User choice: No 
+Latency: 0.630 s
+
+Ear: Right Freq: 500 dB HL: 25
+User choice: No 
+Latency: 0.664 s
+
+Ear: Right Freq: 500 dB HL: 30
+User choice: Yes 
+Latency: 0.663 s
+
+Ear: Right Freq: 500 dB HL: 15
+User choice: No 
+Latency: 0.609 s
+
+Ear: Right Freq: 500 dB HL: 20
+User choice: No 
+Latency: 0.773 s
+
+Ear: Right Freq: 500 dB HL: 25
+User choice: No 
+Latency: 0.636 s
+
+Ear: Right Freq: 500 dB HL: 30
+User choice: Yes 
+Latency: 0.710 s
+
+Ear: Right Freq: 1000 dB HL: 0
+User choice: No 
+Latency: 0.853 s
+
+Ear: Right Freq: 1000 dB HL: 5
+User choice: No 
+Latency: 0.767 s
+
+Ear: Right Freq: 1000 dB HL: 10
+User choice: No 
+Latency: 0.645 s
+
+Ear: Right Freq: 1000 dB HL: 15
+User choice: No 
+Latency: 0.698 s
+
+Ear: Right Freq: 1000 dB HL: 20
+User choice: No 
+Latency: 0.687 s
+
+Ear: Right Freq: 1000 dB HL: 25
+User choice: Yes 
+Latency: 0.810 s
+
+Ear: Right Freq: 1000 dB HL: 10
+User choice: No 
+Latency: 0.807 s
+
+Ear: Right Freq: 1000 dB HL: 15
+User choice: No 
+Latency: 0.750 s
+
+Ear: Right Freq: 1000 dB HL: 20
+User choice: No 
+Latency: 0.667 s
+
+Ear: Right Freq: 1000 dB HL: 25
+User choice: Yes 
+Latency: 0.731 s
+
+Ear: Right Freq: 2000 dB HL: 0
+User choice: No 
+Latency: 0.761 s
+
+Ear: Right Freq: 2000 dB HL: 5
+User choice: No 
+Latency: 1.561 s
+
+Ear: Right Freq: 2000 dB HL: 10
+User choice: No 
+Latency: 0.877 s
+
+Ear: Right Freq: 2000 dB HL: 15
+User choice: Yes 
+Latency: 0.757 s
+
+Ear: Right Freq: 2000 dB HL: 0
+User choice: No 
+Latency: 0.628 s
+
+Ear: Right Freq: 2000 dB HL: 5
+User choice: No 
+Latency: 0.736 s
+
+Ear: Right Freq: 2000 dB HL: 10
+User choice: No 
+Latency: 0.801 s
+
+Ear: Right Freq: 2000 dB HL: 15
+User choice: Yes 
+Latency: 0.596 s
+
+Ear: Right Freq: 4000 dB HL: 0
+User choice: No 
+Latency: 0.923 s
+
+Ear: Right Freq: 4000 dB HL: 5
+User choice: No 
+Latency: 0.600 s
+
+Ear: Right Freq: 4000 dB HL: 10
+User choice: Yes 
+Latency: 2.152 s
+
+Ear: Right Freq: 4000 dB HL: 0
+User choice: No 
+Latency: 1.256 s
+
+Ear: Right Freq: 4000 dB HL: 5
+User choice: No 
+Latency: 0.725 s
+
+Ear: Right Freq: 4000 dB HL: 10
+User choice: No 
+Latency: 0.668 s
+
+Ear: Right Freq: 4000 dB HL: 15
+User choice: Yes 
+Latency: 0.636 s
+
+Ear: Right Freq: 6000 dB HL: 0
+User choice: No 
+Latency: 2.508 s
+
+Ear: Right Freq: 6000 dB HL: 5
+User choice: Yes 
+Latency: 1.011 s
+
+Ear: Right Freq: 6000 dB HL: 0
+User choice: No 
+Latency: 0.650 s
+
+Ear: Right Freq: 6000 dB HL: 5
+User choice: No 
+Latency: 0.570 s
+
+Ear: Right Freq: 6000 dB HL: 10
+User choice: Yes 
+Latency: 0.659 s
+
+Ear: Right Freq: 8000 dB HL: 0
+User choice: No 
+Latency: 1.562 s
+
+Ear: Right Freq: 8000 dB HL: 5
+User choice: No 
+Latency: 0.659 s
+
+Ear: Right Freq: 8000 dB HL: 10
+User choice: No 
+Latency: 0.620 s
+
+Ear: Right Freq: 8000 dB HL: 15
+User choice: No 
+Latency: 0.820 s
+
+Ear: Right Freq: 8000 dB HL: 20
+User choice: No 
+Latency: 0.695 s
+
+Ear: Right Freq: 8000 dB HL: 25
+User choice: No 
+Latency: 0.683 s
+
+Ear: Right Freq: 8000 dB HL: 30
+User choice: Yes 
+Latency: 0.601 s
+
+Ear: Right Freq: 8000 dB HL: 15
+User choice: No 
+Latency: 1.219 s
+
+Ear: Right Freq: 8000 dB HL: 20
+User choice: No 
+Latency: 0.950 s
+
+Ear: Right Freq: 8000 dB HL: 25
+User choice: No 
+Latency: 0.805 s
+
+Ear: Right Freq: 8000 dB HL: 30
+User choice: Yes 
+Latency: 0.611 s
+
+
+

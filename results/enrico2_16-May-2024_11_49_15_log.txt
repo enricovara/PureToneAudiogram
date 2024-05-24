@@ -1,0 +1,24 @@
+Ear: Left Freq: 250 dB HL: 0
+User choice: No 
+Latency: 7.393 s
+
+Ear: Left Freq: 250 dB HL: 5
+User choice: No 
+Latency: 0.792 s
+
+Ear: Left Freq: 250 dB HL: 10
+User choice: No 
+Latency: 0.741 s
+
+Ear: Left Freq: 250 dB HL: 15
+User choice: No 
+Latency: 0.910 s
+
+Ear: Left Freq: 250 dB HL: 20
+User choice: No 
+Latency: 0.772 s
+
+Ear: Left Freq: 250 dB HL: 25
+User choice:  
+Latency: 26.577 s
+
